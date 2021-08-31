@@ -1,0 +1,67 @@
+
+table, td, th {  
+    border: 1px solid #ddd;
+    text-align: left;
+    
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    padding: 15px;
+  }
+  .delete{
+    margin-top: 0px;
+    border-radius: 5px;
+    position: relative;
+    background-color: #f20808;
+    border: none;
+    font-size: 15px;
+    color: #ffffff;
+    padding: 8px;
+    width: 100px;
+    text-align: center;
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+    margin-left: 10px;
+  }
+  .aprooved{
+    margin-top: 10px;
+    border-radius: 5px;
+    position: relative;
+    background-color: #2708f2;
+    border: none;
+    font-size: 15px;
+    color: #ffffff;
+    padding: 8px;
+    width: 100px;
+    text-align: center;
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+    margin-left: 10px;
+  }
+  
+  .notApproved{
+    margin-top: 10px;
+    border-radius: 5px;
+    position: relative;
+    background-color: #ffb700;
+    border: none;
+    font-size: 13px;
+    color: #ffffff;
+    padding: 8px;
+    width: 100px;
+    text-align: center;
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+    margin-left: 10px;
+  }

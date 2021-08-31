@@ -1,0 +1,45 @@
+.container {
+  text-align: center;
+  justify-content: center;
+
+}
+
+/* 
+.navPanel{
+  float:center;
+  margin-left: 60px;
+} */
+.admin {
+  border-radius: 4px;
+  margin-top: 10px;
+  background-color: #4d36dd; /* Blue */
+  color: white;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.home{
+  border-radius: 4px;
+  background-color: #4d36dd; /* Blue */
+  border: none;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.query{
+  border-radius: 4px;
+  background-color: #4d36dd; /* Blue */
+  border: none;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
