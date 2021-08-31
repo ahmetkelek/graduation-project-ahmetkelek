@@ -1,5 +1,14 @@
 
 <a href="https://unruffled-bose-b8f94a.netlify.app">Live Demo</a>
+
+
+
+
+### Görseller 
+
+<image src="./images/admingiris.png">
+<image src="./images/basvuru.png">
+<image src="./images/list.png">
          
 # Getting Started with Create React App
 
