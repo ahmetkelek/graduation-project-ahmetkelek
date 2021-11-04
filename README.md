@@ -10,7 +10,15 @@ Password : bootcamp109
 <image src="./images/admingiris.png">
 <image src="./images/basvuru.png">
 <image src="./images/list.png">
+
          
+## Kullanılan Teknolojiler
+
+- React Router
+- React Hook Form
+- Yup 
+- Firebase
+   
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
