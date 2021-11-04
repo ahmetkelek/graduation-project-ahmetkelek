@@ -1,7 +1,8 @@
 
-<a href="https://unruffled-bose-b8f94a.netlify.app">Live Demo</a>
+<a href="https://unruffled-bose-b8f94a.netlify.app">Live</a>
 
-
+Username : kodluyoruz
+Password : bootcamp109
 
 
 ### Görseller 
