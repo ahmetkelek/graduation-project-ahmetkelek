@@ -19,6 +19,7 @@ Password : bootcamp109
 - Yup 
 - Firebase
 - Bootstrap
+- Deployment - Netlify
    
 # Getting Started with Create React App
 
