@@ -1,5 +1,5 @@
 
-<a href="https://amazing-spence-faae7c.netlify.app/ApplicationForm">Live</a>
+<a href="https://amazing-spence-faae7c.netlify.app">Live</a>
 
 Username : kodluyoruz
 Password : bootcamp109
